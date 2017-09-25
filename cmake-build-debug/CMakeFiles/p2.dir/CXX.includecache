@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wyuntian/Documents/cpsc221/Labs/assignment/p2/mimic.cc
+iostream
+-
+fstream
+-
+sstream
+-
+string
+-
+vector
+-
+treap.h
+/Users/wyuntian/Documents/cpsc221/Labs/assignment/p2/treap.h
+
+/Users/wyuntian/Documents/cpsc221/Labs/assignment/p2/treap.h
+string
+-
+cstdlib
+-
+string
+-
+
